@@ -76,4 +76,4 @@ The data set contains the following diseases:
 
 ## Contact
 
-Created by [@geek-bhuvnesh] feel free to contact me!
+Created by https://github.com/ayush267 feel free to contact me!
